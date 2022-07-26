@@ -4,5 +4,11 @@
 .primary-color {
   color: blue;
 }
-.stop-writing {
+.bg-banner {
+  background-image: url("/images/background.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-blend-mode: overlay;
+  height: 100vh;
 }
